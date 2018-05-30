@@ -1,0 +1,52 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 16px
+}
+
+body {
+    background-color: rgb(236, 4, 255)
+}
+
+header {
+    color: #ffc857;
+    font-family: 'Lato', sans-serif;
+}
+
+{}
+
+img {
+    width: 26%;
+
+    border: 16px solid;
+    border-color: azure
+}
+
+.bob {
+    width: 69%;
+    background-color: #ef626c;
+    border: 10px solid;
+    border-color: aquamarine;
+
+
+}
+
+.text {
+    width: 64%;
+    border: 34px solid;
+    padding: 39px;
+    background-color: #e1fa7a;
+    border-color: #e0e0e0;
+}
+
+.photo {
+    float: left;
+    width: 30%;
+
+}
+
+#mine {
+    border: 32px solid;
+    border-color: rgb(244, 165, 39);
+    width: 81%
+}
